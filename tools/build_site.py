@@ -6,11 +6,11 @@ OUT = pathlib.Path(sys.argv[1])
 PHONE = "60193685562"
 PHONE_PRETTY = "+60 19-368 5562"
 NAME = "Azeery"
-# --- Dealership details: placeholders until the user supplies them ---
-DEALER = "[NAMA PENGEDAR PERODUA]"
-ADDRESS = "[ALAMAT PENUH PENGEDAR], Kota Bharu, Kelantan"
-HOURS = "[WAKTU OPERASI, cth. Isnin–Sabtu 9 pagi – 6 petang]"
-MAPS = "https://www.google.com/maps/search/?api=1&query=" + quote("Perodua Kota Bharu Kelantan")
+# --- Dealership details ---
+DEALER = "Perodua Sales Wakaf Che Yeh"
+ADDRESS = "Lot 2309, Batu 4, Jalan Kuala Krai, 15150 Kota Bharu, Kelantan"
+HOURS = "Booking online: 24 jam"
+MAPS = "https://maps.app.goo.gl/HpEZBNo6LpMsQ4AF7"
 
 def wa(msg):
     return f"https://wa.me/{PHONE}?text={quote(msg + ' (dari Google)')}"
