@@ -122,7 +122,8 @@ tentang = f"""  <header>
     <h1>Sales advisor Perodua di Kota Bharu</h1>
   </header>
   <section>
-    <p>Saya {NAME}, sales advisor di <strong>{DEALER}</strong>, pengedar Perodua sah di Kota Bharu, Kelantan. Saya bantu pelanggan pilih model yang sesuai, kira bayaran bulanan, uruskan permohonan loan dan booking, sehingga kereta diserahkan.</p>
+    <p>Saya {NAME}, Sales Advisor di <strong>{DEALER}, KB1</strong>, pengedar Perodua sah di Kota Bharu, Kelantan. Berpengalaman selama 17 tahun dengan Perodua semenjak 2009.</p>
+    <p>Saya bantu pelanggan pilih model yang sesuai, kira bayaran bulanan, uruskan permohonan loan dan booking, sehingga kereta diserahkan.</p>
     <p>Laman ini saya kendalikan sendiri untuk memudahkan pelanggan menghubungi saya. Ia bukan laman web rasmi Perodua.</p>
   </section>
   <section class="card" aria-labelledby="c-h">
